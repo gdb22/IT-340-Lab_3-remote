@@ -1,0 +1,53 @@
+commit efb14339f737e9fe93f578cc3114e81b591bc032
+Author: gdb22 <gdb22@njit.edu>
+Date:   Tue Sep 22 17:24:09 2026 -0400
+
+    Revert "Reapply "Realized that I needed to add more changes for my txt file.""
+    
+    This reverts commit 79860cc6d292fcb9c3329b8527d98de148208bb4.
+
+commit 79860cc6d292fcb9c3329b8527d98de148208bb4
+Author: gdb22 <gdb22@njit.edu>
+Date:   Tue Sep 22 17:23:55 2026 -0400
+
+    Reapply "Realized that I needed to add more changes for my txt file."
+    
+    This reverts commit d42ea41bbfae8b36f50551aec9922c504643585c.
+
+commit d42ea41bbfae8b36f50551aec9922c504643585c
+Author: gdb22 <gdb22@njit.edu>
+Date:   Tue Sep 22 17:23:26 2026 -0400
+
+    Revert "Realized that I needed to add more changes for my txt file."
+    
+    This reverts commit 704445e08aa48f4f78dccff6e940cb3b0c0b14be.
+
+commit 704445e08aa48f4f78dccff6e940cb3b0c0b14be
+Author: gdb22 <gdb22@njit.edu>
+Date:   Tue Sep 22 17:22:02 2026 -0400
+
+    Realized that I needed to add more changes for my txt file.
+
+commit ecd50d1f63140e57c2bbe60dc63cabc171ce6b9f
+Author: gdb22 <gdb22@njit.edu>
+Date:   Tue Sep 22 17:17:41 2026 -0400
+
+    Added a new txt file.
+
+commit 083bb49e5c80cf7de05bccc16e51f060df9eccc2
+Author: gdb22 <gdb22@njit.edu>
+Date:   Tue Sep 22 17:14:05 2026 -0400
+
+    I overided this txt file.
+
+commit ba692504871ddb0446df11c987117f2eb459939d
+Author: gdb22 <gdb22@njit.edu>
+Date:   Tue Sep 22 16:25:20 2026 -0400
+
+    Changing a file called newFile.txt
+
+commit 15c6607a355187f52497a88a1cdc809f6c1fc561
+Author: gdb22 <gdb22@njit.edu>
+Date:   Tue Sep 22 15:37:18 2026 -0400
+
+    Lab 3 Files
